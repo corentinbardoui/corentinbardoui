@@ -8,13 +8,14 @@ Engineer from IMT Atlantique (research work at CEA and CNES), then nearly three 
 
 ---
 
-## Products I built
+## Products and client work
 
 | Project | What it is | My role |
 |---|---|---|
 | [Orya](https://orya.care) | Connected bracelet that keeps children safe, co-founded by three, launched in five months | Built the entire tech stack: hardware integration, backend, web platform |
 | Intake | Race planning for trail runners, launched in October 2026 and tested by elite athletes | Product and engineering |
 | Lora Connect | WhatsApp messaging for businesses, certified by Meta | Product and engineering |
+| A savings startup (client work) | Life insurance and retirement savings transparency app for French savers | Technical lead, from code audit to MVP |
 | Relais | AI tool for brand communication, used for Intake | Product and engineering |
 | [This site](https://github.com/corentinbardoui/corentinbardouil) | Bilingual site with booking and payment | Next.js, TypeScript, Cal.com |
 
@@ -22,10 +23,10 @@ Engineer from IMT Atlantique (research work at CEA and CNES), then nearly three 
 
 ## Stack
 
-**Languages:** TypeScript, Python
-**Frontend:** Next.js, React
-**Backend:** FastAPI, PostgreSQL, Supabase
-**AI:** Claude API, Vercel AI SDK, MCP, multi-agent orchestration
+**Languages:** TypeScript, Python<br>
+**Frontend:** Next.js, React<br>
+**Backend:** FastAPI, PostgreSQL, Supabase<br>
+**AI:** Claude API, Vercel AI SDK, MCP, multi-agent orchestration<br>
 **Infra:** Vercel, Docker
 
 ---
