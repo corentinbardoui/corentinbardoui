@@ -1,35 +1,35 @@
 # Corentin Bardouil
 
-Technical founder building AI-native systems and infrastructure.
+Forward Deployed Engineer for startups and companies: I join your team, learn your business and put AI to work in your business processes, from diagnosis to production.
 
-Currently working on **financial infrastructure for autonomous AI agents** — programmable wallets, policy engines, and MCP-compatible integrations. The bet: agents need financial primitives purpose-built for their constraints, not human banking bolted on.
+Engineer from IMT Atlantique (research work at CEA and CNES), then nearly three years in strategy consulting for banking and insurance. One point of contact, from decision to production.
 
-Before that: co-founded and led engineering at **[Orya](https://orya.care)** (connected safety wearable for children) — hardware/software integration, backend systems, web platform, and operational tooling, end-to-end.
+**[corentinbardouil.com](https://corentinbardouil.com)** | [Book a call](https://corentinbardouil.com/en/book) | [Version française](https://corentinbardouil.com)
 
 ---
 
-## Shipped
+## Products I built
 
-| Project | Description | Stack |
+| Project | What it is | My role |
 |---|---|---|
-| [Personal site](https://corentinbardouil.com) | This portfolio — server components, EN/FR, Framer Motion | Next.js 15, TypeScript, Tailwind v4 |
-| [AI Travel Planner](https://travel-planner-murex-tau.vercel.app) | Natural language → streaming interactive itinerary + maps | Next.js, FastAPI, Claude API, Mapbox |
-| AI Project Manager | Multi-agent Kanban with real-time sync | Next.js, Supabase Realtime, Claude API |
-| B2B Messaging SaaS | Multi-tenant campaign platform, shipped to production | Next.js, FastAPI, PostgreSQL |
-| Orya | Connected wearable for child safety — 68 clients, 91 devices | Full-stack + hardware integration |
+| [Orya](https://orya.care) | Connected bracelet that keeps children safe, co-founded by three, launched in five months | Built the entire tech stack: hardware integration, backend, web platform |
+| Intake | Race planning for trail runners, launched in October 2026 and tested by elite athletes | Product and engineering |
+| Lora Connect | WhatsApp messaging for businesses, certified by Meta | Product and engineering |
+| Relais | AI tool for brand communication, used for Intake | Product and engineering |
+| [This site](https://github.com/corentinbardoui/corentinbardouil) | Bilingual site with booking and payment | Next.js, TypeScript, Cal.com |
 
 ---
 
-## Stack I reach for
+## Stack
 
-**Languages:** TypeScript, Python  
-**Frontend:** Next.js, React, Tailwind CSS, Framer Motion  
-**Backend:** FastAPI, PostgreSQL, Supabase  
-**AI:** Claude API, Vercel AI SDK, MCP Protocol, multi-agent orchestration  
-**Infra:** Vercel, Docker, double-entry ledger systems
+**Languages:** TypeScript, Python
+**Frontend:** Next.js, React
+**Backend:** FastAPI, PostgreSQL, Supabase
+**AI:** Claude API, Vercel AI SDK, MCP, multi-agent orchestration
+**Infra:** Vercel, Docker
 
 ---
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/corentin-bardouil) · [corentin.bardouil@gmail.com](mailto:corentin.bardouil@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/corentin-bardouil) | [corentin.bardouil@gmail.com](mailto:corentin.bardouil@gmail.com)
